@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (286, 19)–(408, 38) mm: HOD CKD · USED OH · WBS WAAD-beCk byatemb LTD_ · M4654
 - **Wiring (first pass):** 152 connected wire groups from 819 runs; labelled ends: 411 mm → 2E4, BORMFER, R5, Sw3; 355 mm → BORMFER, 266, R8, R5; 342 mm → Ri3, R12, 5.6; 255 mm → INSERT, MASTER, 300, REv; 217 mm → 300-, R2
 
-Every curve, box, word and wire group: [19xx - M465A - DOC - 465-02-002 - FIMISH REVERB MODULE SCHEMATIC IOLS (traced).json](../SCHEMATICS/19xx%20-%20M465A%20-%20DOC%20-%20465-02-002%20-%20FIMISH%20REVERB%20MODULE%20SCHEMATIC%20IOLS%20(traced).json) (the CAD file: `19xx - M465A - DOC - 465-02-002 - FIMISH REVERB MODULE SCHEMATIC IOLS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M465A - DOC - 465-02-002 - FIMISH REVERB MODULE SCHEMATIC IOLS (traced).json](../SCHEMATICS/19xx%20-%20M465A%20-%20DOC%20-%20465-02-002%20-%20FIMISH%20REVERB%20MODULE%20SCHEMATIC%20IOLS%20%28traced%29.json) (the CAD file: `19xx - M465A - DOC - 465-02-002 - FIMISH REVERB MODULE SCHEMATIC IOLS (traced).dxf`).
 
 ## Full text
 

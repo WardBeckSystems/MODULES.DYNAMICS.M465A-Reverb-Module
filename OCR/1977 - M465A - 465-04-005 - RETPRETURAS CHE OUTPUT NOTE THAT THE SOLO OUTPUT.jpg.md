@@ -21,7 +21,7 @@ Wiki page: [M465A](../../../../PAGES/M465A.md)
 - **Words (OCR):** 128 in 71 lines: WBS · M46sa · REVERB SEND MASTER leve | control 31/2: Controls leve · REV SEND 5E · ion · VU Meter: Indicafes · MstR · SEND · SOLO swiech SwS Wncn Tessed · SOLO otput · dep · Feeds pre-fede REV
 - **Title block:** (131, 20)–(305, 323) mm: WBS · M46sa · REVERB SEND MASTER leve | control 31/2: Controls leve · REV SEND 5E · ion · MstR · SEND · SOLO swiech SwS Wncn Tessed · SOLO otput · dep · Feeds pre-fede REV · FOLDBACK LcVEL concro| RJ/
 
-Every curve, box, word and wire group: [1977 - M465A - 465-04-005 - RETPRETURAS CHE OUTPUT NOTE THAT THE SOLO OUTPUT (traced).json](../MECHANICAL/1977%20-%20M465A%20-%20465-04-005%20-%20RETPRETURAS%20CHE%20OUTPUT%20NOTE%20THAT%20THE%20SOLO%20OUTPUT%20(traced).json) (the CAD file: `1977 - M465A - 465-04-005 - RETPRETURAS CHE OUTPUT NOTE THAT THE SOLO OUTPUT (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M465A - 465-04-005 - RETPRETURAS CHE OUTPUT NOTE THAT THE SOLO OUTPUT (traced).json](../MECHANICAL/1977%20-%20M465A%20-%20465-04-005%20-%20RETPRETURAS%20CHE%20OUTPUT%20NOTE%20THAT%20THE%20SOLO%20OUTPUT%20%28traced%29.json) (the CAD file: `1977 - M465A - 465-04-005 - RETPRETURAS CHE OUTPUT NOTE THAT THE SOLO OUTPUT (traced).dxf`).
 
 ## Full text
 
