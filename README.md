@@ -13,6 +13,42 @@ Ward-Beck Systems M465A, 1977|10. Wiki page: [M465A on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 12 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1977 - M465A - p4.jpg](MANUALS/1977%20-%20M465A%20-%20p4.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** |  |
+| &nbsp;&nbsp;Return | Send: 15 dB ±0.5 dB _ 33 dB ±0.5 dB. |
+| **Frequency response** | ±0.25 dB from 20 Hz to 20 kHz. |
+| **Noise** |  |
+| &nbsp;&nbsp;Return | Send: 80 dB S/N 85 dB S/n (20 Hz:0 20 kHz) below nomina ] operating signa 1 level |
+| **Harmonic distortion** | Less nan 0.252 from 20 Hz to 20 kHz 2t +28 dBm output Teve] or Tess Less than 0.16 at 1 kHz at +28 dBm output. |
+| **Source impedances** | 600 onm Or Tess, balanced. |
+| **Input impedances** | 600 onm, balanced. |
+| **Input levels** | -10 dBm nomina ] +30 dBm maximum. |
+| **Output impedances** | Return Send: Less than 200 ohm, balanced. 600 ohm, balanced |
+| **Load impedances** |  |
+| &nbsp;&nbsp;Return | Send 3,000 ohm minimum, each output baLanced 600 ohm, ba anced. |
+| &nbsp;&nbsp;Output levels |  |
+| &nbsp;&nbsp;Return send | -10 dBm nomina ] +30 dBm maximum _ +8 dBm nomina ] +24 dBm maximum |
+| **Phasing** | Input and output terminals designated by numbers are in phase. |
+
+## Circuit description
+
+From [1977 - M465A - p6.jpg](MANUALS/1977%20-%20M465A%20-%20p6.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M465A REVERB MODULE is designed to be used in conjunction with an externa] reverberation chamber The modu ]e is divided into REVERB SEND (RS) and REVERB RETURN RR) section. &quot;:' (Reverb Send as Originating from tne Reverb Send mixing bus the s igna ] enters the module at Pins 1/4 of the modu ]e connector and is fed via the MIXdOWN switch SXi to the insert point 3/€ and 6 / F, The potentiometer Ri/rz serves a$ the RS MASTER Teve] contro] The 4-109C Booster Amplifier raises the combined or mixed $ igna ] to standard Tine Level VU-Meter is connected to the output of the 4-109€ Booster Amplifier 1t is calibrated to read vu with pins 4 / D and/or 5 / E terminated into 600 onm and producing an output Teve] of +8 dBm The MIXDOWN switch Shi maybe used to route the Mixdown section of console to the Revert Send input Switch SW5 a ]Tows to feed tne pre-fade Reverb Send signa ] to the SOLO output at pins 9/K. Reverb Return The Return signa 7 from the reverberation chamber is applied to pins 15/5 From here it continues via the MIXdoWN switch Sh1 and the RR N switch SW7 Fader Insert is provided between pins 13/P and 12/N _ The 4-109 Booster Amplifier recovers the nomina ] 15 dB in-hand Toss incurred by the fader and develops sufficient additiona ] power to drive the PAn and output circuitry The outputs igna ]of the 4-109 amplifier is routed via PAN switch SW3 and PAN contro] R5 through R8 to the LEFT and RIght outputs at pins 16/T and 17/U respectively. In addition, DIRECT output is provided at pins 11/M_ FOLDBAck output is made ava i Tab ]eat pins 8 / J. Switch SW6 facilitates pre-fade or post-fade source selection for the FOLDBACk output Potentiometer R3/ R4 serves as the FOLDBACk level contro] followed by switch SW2
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

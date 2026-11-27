@@ -1,0 +1,217 @@
+{
+ "module": "M465A",
+ "title": "M465A",
+ "source": {
+  "file": "MANUALS/1977 - M465A - p4.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "",
+   "items": [
+    {
+     "name": "Return",
+     "text": "Send: 15 dB ±0.5 dB _ 33 dB ±0.5 dB.",
+     "quantities": [
+      {
+       "value": 15,
+       "unit": "dB"
+      },
+      {
+       "value": 0.5,
+       "unit": "dB",
+       "tolerance": true
+      },
+      {
+       "value": 33,
+       "unit": "dB"
+      },
+      {
+       "value": 0.5,
+       "unit": "dB",
+       "tolerance": true
+      }
+     ],
+     "key": "return"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.25 dB from 20 Hz to 20 kHz.",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "",
+   "items": [
+    {
+     "name": "Return",
+     "text": "Send: 80 dB S/N 85 dB S/n (20 Hz:0 20 kHz) below nomina ] operating signa 1 level",
+     "quantities": [
+      {
+       "value": 80,
+       "unit": "dB"
+      },
+      {
+       "value": 85,
+       "unit": "dB"
+      },
+      {
+       "value": 20,
+       "unit": "Hz"
+      },
+      {
+       "value": 20,
+       "unit": "kHz"
+      }
+     ],
+     "key": "return"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less nan 0.252 from 20 Hz to 20 kHz 2t +28 dBm output Teve] or Tess Less than 0.16 at 1 kHz at +28 dBm output.",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    },
+    {
+     "value": 1,
+     "unit": "kHz"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "600 onm Or Tess, balanced."
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "600 onm, balanced."
+  },
+  {
+   "name": "Input levels",
+   "key": "input_level",
+   "text": "-10 dBm nomina ] +30 dBm maximum.",
+   "quantities": [
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "Return Send: Less than 200 ohm, balanced. 600 ohm, balanced",
+   "quantities": [
+    {
+     "value": 200,
+     "unit": "ohm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Return",
+     "text": "Send 3,000 ohm minimum, each output baLanced 600 ohm, ba anced.",
+     "quantities": [
+      {
+       "value": 3000,
+       "unit": "ohm"
+      },
+      {
+       "value": 600,
+       "unit": "ohm"
+      }
+     ],
+     "key": "return"
+    },
+    {
+     "name": "Output levels",
+     "text": "",
+     "quantities": [],
+     "key": "output_level"
+    },
+    {
+     "name": "Return send",
+     "text": "-10 dBm nomina ] +30 dBm maximum _ +8 dBm nomina ] +24 dBm maximum",
+     "quantities": [
+      {
+       "value": -10,
+       "unit": "dBm"
+      },
+      {
+       "value": 30,
+       "unit": "dBm"
+      },
+      {
+       "value": 8,
+       "unit": "dBm"
+      },
+      {
+       "value": 24,
+       "unit": "dBm"
+      }
+     ],
+     "key": "return_send"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output terminals designated by numbers are in phase."
+  }
+ ]
+}
