@@ -7,352 +7,262 @@
  "verified": null,
  "derived": true,
  "variant_of": "M465",
- "pins": [
-  {
-   "pin": "3",
-   "signal": "IC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "4",
-   "signal": "IC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "REV SEND",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "6",
-   "signal": "REV SEND",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "7",
-   "signal": "NC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "8",
-   "signal": "FB OUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "9",
-   "signal": "SOLO OUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "10",
-   "signal": "RR OUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "11",
-   "signal": "FROM RR",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "TO RR FADER",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "13",
-   "signal": "RETURN IN",
-   "kind": "in",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "14",
-   "signal": "RR OUT, LEFT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "15",
-   "signal": "OUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "16",
-   "signal": "25V",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "17",
-   "signal": "25V COM",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "A",
-   "signal": "DIRECT",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "B",
-   "signal": "FADER",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "C",
-   "signal": "IC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "D",
-   "signal": "IC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "E",
-   "signal": "REV SEND OUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "F",
-   "signal": "REV SEND OUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "H",
-   "signal": "NC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "J",
-   "signal": "FB OUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "K",
-   "signal": "SOLO OUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "L",
-   "signal": "RR OUT, DIRECT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "M",
-   "signal": "FROM RR FADER",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "N",
-   "signal": "FADER",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "P",
-   "signal": "RETURN IN",
-   "kind": "in",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "R",
-   "signal": "RR OUT, LEFT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "T",
-   "signal": "NC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "U",
-   "signal": "24V COM",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "drawing rows",
-   "file": "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg",
-   "page": 1
-  }
- ],
  "straps": [],
  "power": [],
  "sources": [
   "Modules/DYNAMICS/M465/PINOUTS/1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "",
+   "pin": "3",
+   "signal": "IC",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "4",
+   "signal": "IC",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "5",
+   "signal": "REV SEND",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "6",
+   "signal": "REV SEND",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "7",
+   "signal": "NC",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "8",
+   "signal": "FB OUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "9",
+   "signal": "SOLO OUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "10",
+   "signal": "RR OUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "11",
+   "signal": "FROM RR",
+   "kind": "other",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "12",
+   "signal": "TO RR FADER",
+   "kind": "other",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "13",
+   "signal": "RETURN IN",
+   "kind": "in",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "14",
+   "signal": "RR OUT, LEFT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "15",
+   "signal": "OUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "16",
+   "signal": "25V",
+   "kind": "other",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "17",
+   "signal": "25V COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "A",
+   "signal": "DIRECT",
+   "kind": "other",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "B",
+   "signal": "FADER",
+   "kind": "other",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "C",
+   "signal": "IC",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "D",
+   "signal": "IC",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "E",
+   "signal": "REV SEND OUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "F",
+   "signal": "REV SEND OUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "H",
+   "signal": "NC",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "J",
+   "signal": "FB OUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "K",
+   "signal": "SOLO OUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "L",
+   "signal": "RR OUT, DIRECT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "M",
+   "signal": "FROM RR FADER",
+   "kind": "other",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "N",
+   "signal": "FADER",
+   "kind": "other",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "P",
+   "signal": "RETURN IN",
+   "kind": "in",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "R",
+   "signal": "RR OUT, LEFT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "T",
+   "signal": "NC",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "U",
+   "signal": "24V COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/IO/M465A.pins.json"
+ }
 }
