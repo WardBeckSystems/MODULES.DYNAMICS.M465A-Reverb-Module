@@ -1,5 +1,5 @@
 # 1977 - M465A - 465-04-005 - RETPRETURAS CHE OUTPUT NOTE THAT THE SOLO OUTPUT.jpg
-Wiki page: [M465A](../../../../PAGES/M465A.md)
+Wiki page: [M465A](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

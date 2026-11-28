@@ -1,6 +1,6 @@
 # M465A Reverb Module · Dynamics
 
-Ward-Beck Systems M465A, 1977|10. Wiki page: [M465A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M465A.html)
+Ward-Beck Systems M465A, 1977|10. Wiki page: [M465A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M465A-Reverb-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
